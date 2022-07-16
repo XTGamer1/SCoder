@@ -21,7 +21,7 @@ a {
     text-transform: uppercase;
 }
 .banner-image{
-background-image:url(https://media.discordapp.net/attachments/885189262235033610/992474077111533621/undraw_Mobile_development_re_wwsn.png?width=775&height=612);
+background-image:url(/img/71619-coding.gif);
 background-repeat:no-repeat;
 background-position:right;
 background-size:contain;
@@ -35,12 +35,19 @@ color:#333;
 }
 @media(max-width:768px){    
     .banner-image{
-    background: linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)), url(img/portrait-photo.png);
+        background-image:url(/img/71619-coding.gif);
+    background: linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)), url();
     background-repeat:no-repeat;
 background-position:right;
 background-size:contain;    
     }  
 }
+
+/* loger */
+
+
+
+
 
 
 
